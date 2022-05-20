@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"Z:\\ue5proj\\Labor\\Source\\Labor\\Labor.Build.cs",
+		"Z:\\ue5proj\\Labor\\Source\\Labor.Target.cs",
+		"Z:\\ue5proj\\Labor\\Source\\LaborEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Labor",
+			"Path": "Z:\\ue5proj\\Labor\\Source\\Labor.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LaborEditor",
+			"Path": "Z:\\ue5proj\\Labor\\Source\\LaborEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
